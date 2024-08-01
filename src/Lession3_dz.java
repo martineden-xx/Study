@@ -6,9 +6,8 @@ public class Lession3_dz {
         double d1=5.5;
         double d2=1.3;
         long l1=20L;
-        double result=0;
+        double result;
         result=i2/d1+d2%i1-l1;
-
         System.out.println(result);
     }
 }

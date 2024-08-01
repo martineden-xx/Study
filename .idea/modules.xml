@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/tregulov/Lesson6.iml" filepath="$PROJECT_DIR$/tregulov/Lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tregulov/Lesson7/Lesson7.iml" filepath="$PROJECT_DIR$/tregulov/Lesson7/Lesson7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tregulov/Lesson7/Lesson7_1/Lesson7_1.iml" filepath="$PROJECT_DIR$/tregulov/Lesson7/Lesson7_1/Lesson7_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Study.iml" filepath="$PROJECT_DIR$/Study.iml" />
     </modules>
   </component>
